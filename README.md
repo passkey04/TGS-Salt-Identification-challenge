@@ -23,3 +23,5 @@ It designed like an autoencoder, the 1st block of layer is like an auto-encoder
 This goes like U-shape, encoding path to all way up to decoding path<br>
 ## Here is the architecture of a U-net:<br>
 ![myimage-alt-tag](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
+<br>
+For more on U-net I have found [this](https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066) medium post helpful
